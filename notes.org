@@ -1,0 +1,4 @@
+* Information about the Libreoffice API 
+** Important Paths
+   - /Applications/LibreOffice.app/Contents/Resources (this is where the python interpreter lives)
+   - ~/Library/Application Support/LibreOffice/4/user/Scripts/python/ (this is where to put the python scripts to be run as macros)

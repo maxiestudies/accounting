@@ -1,0 +1,5 @@
+import subprocess
+
+subprocess.run("/Applications/LibreOffice.app/Contents/MacOS/soffice --accept=\"socket,host=localhost,port=2002;urp;StarOffice.ServiceManager\" &", shell=True)
+
+#print("stuff")
